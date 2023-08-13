@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <video autoplay muted loop playsinline width="100%">
+    <source src="path-to-your-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <h1 style="font-size: 2.5em;">Greetings! 👋 I'm Shivam Kumar</h1>
+  <h3>A Passionate Frontend Developer from India</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shivamk23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shivamk23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <em>🌟 Welcome to my coding universe! 🚀</em>
