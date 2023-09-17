@@ -1,5 +1,5 @@
 # <div align="center"> Hello <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px">, I'm Shivam Kumar, a MERN stack developer 👨‍💻 🚀</div>
-## I'm a Developer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
+<div align="center"> ## I'm a Developer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!</div>
 
 <h3 align="center"><em>🌟 Welcome to my coding universe! 🚀</h3>
 
@@ -51,17 +51,6 @@
 <br/>
 
 </p>
-
-
-
-  <h1 style="font-size: 2.5em;">Greetings! 👋 I'm Shivam Kumar</h1>
-  <h3>A Passionate Frontend Developer from India</h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=shivamk23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
-</div>
-
-
 
 
 
