@@ -1,4 +1,4 @@
-# <div align="center"> Hello <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px">, I'm Shivam Kumar, a MERN stack developer 👨‍💻 🚀</div>
+# <div align="center"> Hello 👋, I'm Shivam Kumar, a MERN stack developer 👨‍💻 🚀</div>
 <div align="center"> ## I'm a Developer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!</div>
 
 <h3 align="center"><em>🌟 Welcome to my coding universe! 🚀</h3>
