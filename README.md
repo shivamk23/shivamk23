@@ -70,4 +70,5 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk23&theme=dark" alt="GitHub Streak" />
   </p>
 </div>
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
