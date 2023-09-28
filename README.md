@@ -70,5 +70,5 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk23&theme=dark" alt="GitHub Streak" />
   </p>
 </div>
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![An image of @shivamk23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamk23)](https://holopin.io/@shivamk23)
 
