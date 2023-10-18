@@ -1,4 +1,7 @@
 # <div align="center"> Hello 👋, I'm Shivam Kumar, a MERN stack developer 👨‍💻 🚀</div>
+<div>
+   [![An image of @shivamk23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamk23)](https://holopin.io/@shivamk23)
+</div>
 <div align="center"> ## I'm a Developer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!</div>
 
 <h3 align="center"><em>🌟 Welcome to my coding universe! 🚀</h3>
@@ -70,6 +73,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk23&theme=dark" alt="GitHub Streak" />
   </p>
 
-  [![An image of @shivamk23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamk23)](https://holopin.io/@shivamk23)
+ 
 
 </div>
