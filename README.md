@@ -83,7 +83,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <h3 align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></h3><p align="center"><img src="https://media.giphy.com/media/11h471O9Q1baKY/giphy.gif"/></p>
+ <p align="center"><img src="https://media.giphy.com/media/11h471O9Q1baKY/giphy.gif"/></p>
 
 
  ## Connect with me 🚀
