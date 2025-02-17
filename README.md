@@ -61,8 +61,9 @@
 
 ## 📈 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamk23&theme=react-dark&hide_border=true&area=true" alt="GitHub Graph" width="98%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamk23&theme=react-dark&hide_border=true&area=true&range=1y" alt="GitHub Graph" width="98%">
 </div>
+
 
 ---
 
